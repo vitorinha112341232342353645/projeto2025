@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #134c6d;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #1a2b79;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #76a0d1;
 }
 
 
@@ -24,13 +24,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #1d1c77;
     font-weight: 600;
 }
 
 .inicio-fundo {
     
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/cavalo.jpg');
     
     background-size: cover;
     background-position: right;
@@ -43,10 +43,12 @@ section {
 
 
 .img-inicio {
+    background-image: url('img/TRÊS\ TAMBORES\ \(1\).png');
+
     position: absolute;
-    right: 0;
-    top: 18rem;
-    width: 45rem;
+    right: 300;
+    top: 200rem;
+    width: 400rem;
     height: auto;
 }
 
@@ -112,7 +114,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/????????????.jpg');
     background-size: cover;
     padding: 4rem 0;
 }
@@ -129,13 +131,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #1e2a50;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #5981b4;
 }
 .menu-acessibilidade{
     position: fixed;
